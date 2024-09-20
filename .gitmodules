@@ -1,0 +1,3 @@
+[submodule "rdfind"]
+	path = rdfind
+	url = https://github.com/pauldreik/rdfind.git
